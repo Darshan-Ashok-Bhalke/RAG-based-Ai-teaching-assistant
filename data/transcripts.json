@@ -1,0 +1,14 @@
+[
+  {
+    "text": "RAG stands for Retrieval Augmented Generation",
+    "start": 0,
+    "end": 5,
+    "video": "sample.mp3"
+  },
+  {
+    "text": "Machine learning is part of artificial intelligence",
+    "start": 5,
+    "end": 10,
+    "video": "sample.mp3"
+  }
+]
