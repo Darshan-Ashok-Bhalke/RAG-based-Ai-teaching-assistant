@@ -14,3 +14,15 @@ The full version of the project also supports OpenAI APIs for embedding generati
 - Sentence Transformers
 - NumPy
 - JSON
+
+- ## How to Run
+
+pip install -r requirements.txt  
+python app.py
+
+## Example
+
+Ask question: What is RAG?
+
+Answer:
+RAG stands for Retrieval Augmented Generation...
